@@ -184,9 +184,5 @@ banking-cqrs-event-sourcing-axon/
 
 Projet académique adapté à partir du code source et des démonstrations pédagogiques du professeur Mohamed YOUSSFI.
 
-**Projet de référence :**  
-https://github.com/mohamedYoussfi/event-sourcing-cqrs-spring-axon-app
-
----
 
 *Projet réalisé dans un cadre académique dans le but de mettre en pratique les architectures CQRS et Event Sourcing avec Spring Boot et Axon Framework.*
