@@ -143,8 +143,6 @@ Puis :
 .\mvnw.cmd spring-boot:run
 ```
 
-*Remarque : vérifier les ports, les services et les paramètres de connexion définis dans les fichiers de configuration avant le lancement.*
-
 ## Tests et documentation API
 
 Swagger UI permet de consulter et tester les endpoints REST de l'application.
